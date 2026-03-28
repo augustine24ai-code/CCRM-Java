@@ -13,7 +13,7 @@ The Campus Course & Records Manager (CCRM) is a console-based Java application d
 
 ## 2. How to Run
 1.  **Prerequisites:** JDK 17 or later must be installed.
-2.  **Clone Repository:** `git clone https://github.com/Rahul-kr1623/CCRM-Java-Project.git`
+2.  **Clone Repository:** `git clone https://github.com/augustine24ai-code/CCRM-Java.git`
 3.  **Navigate to Project:** Open the project in an IDE like Eclipse or IntelliJ.
 4.  **Enable Assertions:** In your IDE's run configuration, add `-ea` to the VM arguments.
 5.  **Run:** Execute the `main` method in `edu.ccrm.cli.CCRMApp.java`.
